@@ -1,9 +1,9 @@
 <div align="center">
 <img src="https://user-images.githubusercontent.com/42115530/92640221-9728ca00-f2fa-11ea-8994-c72b26e937de.gif" align="center"/>
 </div>
-<h1 align='center'>Hey 👋, This is Gurnur Kaur</h1>
+<h1 align='center'>Hey 👋, This is Gurnur Kaur!</h1>
 <p align = 'center'> 
-<h2 align='center'>About Me🤓</h2>
+<h2 align='center'>About Me 🤓</h2>
 <p align='center'>I am a self-motivated, persevered person who is always eager to know more. Although I am a B. Tech Information Technology student, my love for art and creativity has always pushed me towards Graphic Designing. A good designer is a person who can analyze how users are willing to interact more and yet be creative in the designing. Henceforth, the combination of all these qualities makes me perfect to fit in every environment. I am multilingual as I can know French, English, Hindi and Punjabi as well.
 <!--  <p align="left"> <img src="https://komarev.com/ghpvc/?username=simarpreetsingh-019" alt="simarpreetsingh-019" /> </p> -->
 
