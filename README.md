@@ -8,9 +8,9 @@
 <!--  <p align="left"> <img src="https://komarev.com/ghpvc/?username=simarpreetsingh-019" alt="simarpreetsingh-019" /> </p> -->
 
 ### 😉 About
-- 🍎 I’m currently working as an Intern at in [Computer Service Solutions](https://www.computerservicesolutions.in/).
+- 🍎 I’m currently working as an Intern at in [Solvendo.io](https://solvendo.io/#/).
 - 🔭 I’m currently contributing in CDMC-GTBIT and IRSC-GTBIT.
-- 🌱 I’m currently learning UI/UX and practicing ds and algo. 
+- 🌱 I’m currently learning UI/UX Designing and practicing ds and algo. 
 - 🏄‍ Actively contributing to various organisations and Open-Source Projects.
 - 💬 Ask me about anything related to Graphic Designing.
 </p><h2 align='center'>Connect with me  📫 </h2>
